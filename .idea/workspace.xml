@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="effd6941-35d3-4eec-bb7f-66af6cee31df" name="Changes" comment="Add 0009 Palindrome Number">
+    <list default="true" id="effd6941-35d3-4eec-bb7f-66af6cee31df" name="Changes" comment="Add 0026 Remove Duplicates from Sorted Array">
       <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/p0226_invert_binary_tree/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -82,7 +82,7 @@
       <updated>1791395214177</updated>
       <workItem from="1791395215307" duration="1234000" />
       <workItem from="1791475952288" duration="1432000" />
-      <workItem from="1791557474808" duration="3301000" />
+      <workItem from="1791557474808" duration="4198000" />
     </task>
     <task id="LOCAL-00001" summary="Add 0013 Roman to Integer">
       <option name="closed" value="true" />
@@ -100,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791476783727</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add 0026 Remove Duplicates from Sorted Array">
+      <option name="closed" value="true" />
+      <created>1791563052527</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1791563052527</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,7 +117,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add 0013 Roman to Integer" />
     <MESSAGE value="Add 0009 Palindrome Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 0009 Palindrome Number" />
+    <MESSAGE value="Add 0026 Remove Duplicates from Sorted Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 0026 Remove Duplicates from Sorted Array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
