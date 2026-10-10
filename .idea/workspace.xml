@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="effd6941-35d3-4eec-bb7f-66af6cee31df" name="Changes" comment="Add 0026 Remove Duplicates from Sorted Array">
       <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p0226_invert_binary_tree/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +81,8 @@
       <updated>1791395214177</updated>
       <workItem from="1791395215307" duration="1234000" />
       <workItem from="1791475952288" duration="1432000" />
-      <workItem from="1791557474808" duration="4198000" />
+      <workItem from="1791557474808" duration="6338000" />
+      <workItem from="1791651069604" duration="603000" />
     </task>
     <task id="LOCAL-00001" summary="Add 0013 Roman to Integer">
       <option name="closed" value="true" />
@@ -108,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791563052527</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add 0026 Remove Duplicates from Sorted Array">
+      <option name="closed" value="true" />
+      <created>1791563744128</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1791563744128</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
