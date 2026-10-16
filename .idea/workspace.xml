@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="effd6941-35d3-4eec-bb7f-66af6cee31df" name="Changes" comment="Add 0058 Length of Last Word">
+    <list default="true" id="effd6941-35d3-4eec-bb7f-66af6cee31df" name="Changes" comment="Add 0125 Valid Palindrome">
+      <change afterPath="$PROJECT_DIR$/src/p0506_relative_ranks/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +86,9 @@
       <workItem from="1791651069604" duration="914000" />
       <workItem from="1791873388850" duration="2708000" />
       <workItem from="1791905084051" duration="1905000" />
-      <workItem from="1791995564457" duration="563000" />
+      <workItem from="1791995564457" duration="1690000" />
+      <workItem from="1792056691278" duration="226000" />
+      <workItem from="1792161366425" duration="735000" />
     </task>
     <task id="LOCAL-00001" summary="Add 0013 Roman to Integer">
       <option name="closed" value="true" />
@@ -135,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791905221233</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add 0125 Valid Palindrome">
+      <option name="closed" value="true" />
+      <created>1791996251141</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1791996251141</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +157,8 @@
     <MESSAGE value="Add 0009 Palindrome Number" />
     <MESSAGE value="Add 0026 Remove Duplicates from Sorted Array" />
     <MESSAGE value="Add 0058 Length of Last Word" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 0058 Length of Last Word" />
+    <MESSAGE value="Add 0125 Valid Palindrome" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 0125 Valid Palindrome" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
