@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="effd6941-35d3-4eec-bb7f-66af6cee31df" name="Changes" comment="Add 0389 Find the Difference">
-      <change afterPath="$PROJECT_DIR$/src/p0028_find_the_index_of_the_first_occurrence_in_a_string/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="effd6941-35d3-4eec-bb7f-66af6cee31df" name="Changes" comment="Add 0028 Find the Index of the First Occurrence in a String" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +92,7 @@
       <workItem from="1792600685742" duration="3115000" />
       <workItem from="1792854894016" duration="1455000" />
       <workItem from="1793031640830" duration="1407000" />
-      <workItem from="1793207899973" duration="320000" />
+      <workItem from="1793207899973" duration="989000" />
     </task>
     <task id="LOCAL-00001" summary="Add 0013 Roman to Integer">
       <option name="closed" value="true" />
@@ -185,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793031839372</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add 0028 Find the Index of the First Occurrence in a String">
+      <option name="closed" value="true" />
+      <created>1793208288535</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1793208288535</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +206,8 @@
     <MESSAGE value="Add 0088 Merge Sorted Array" />
     <MESSAGE value="Add 0118 Pascal's Triangle" />
     <MESSAGE value="Add 0389 Find the Difference" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 0389 Find the Difference" />
+    <MESSAGE value="Add 0028 Find the Index of the First Occurrence in a String" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 0028 Find the Index of the First Occurrence in a String" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
