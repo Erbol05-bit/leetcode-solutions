@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="effd6941-35d3-4eec-bb7f-66af6cee31df" name="Changes" comment="Add 0028 Find the Index of the First Occurrence in a String" />
+    <list default="true" id="effd6941-35d3-4eec-bb7f-66af6cee31df" name="Changes" comment="Add 0242 Valid Anagram" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,6 +93,7 @@
       <workItem from="1792854894016" duration="1455000" />
       <workItem from="1793031640830" duration="1407000" />
       <workItem from="1793207899973" duration="989000" />
+      <workItem from="1793372605443" duration="842000" />
     </task>
     <task id="LOCAL-00001" summary="Add 0013 Roman to Integer">
       <option name="closed" value="true" />
@@ -190,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793208288535</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add 0242 Valid Anagram">
+      <option name="closed" value="true" />
+      <created>1793372819514</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1793372819514</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +216,8 @@
     <MESSAGE value="Add 0118 Pascal's Triangle" />
     <MESSAGE value="Add 0389 Find the Difference" />
     <MESSAGE value="Add 0028 Find the Index of the First Occurrence in a String" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 0028 Find the Index of the First Occurrence in a String" />
+    <MESSAGE value="Add 0242 Valid Anagram" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 0242 Valid Anagram" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
