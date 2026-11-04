@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="effd6941-35d3-4eec-bb7f-66af6cee31df" name="Changes" comment="Add 0242 Valid Anagram" />
+    <list default="true" id="effd6941-35d3-4eec-bb7f-66af6cee31df" name="Changes" comment="Add 0459 Repeated Substring Pattern">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,6 +96,7 @@
       <workItem from="1793031640830" duration="1407000" />
       <workItem from="1793207899973" duration="989000" />
       <workItem from="1793372605443" duration="842000" />
+      <workItem from="1793641038943" duration="3543000" />
     </task>
     <task id="LOCAL-00001" summary="Add 0013 Roman to Integer">
       <option name="closed" value="true" />
@@ -199,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793372819514</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add 0459 Repeated Substring Pattern">
+      <option name="closed" value="true" />
+      <created>1793641170857</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1793641170857</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,7 +228,8 @@
     <MESSAGE value="Add 0389 Find the Difference" />
     <MESSAGE value="Add 0028 Find the Index of the First Occurrence in a String" />
     <MESSAGE value="Add 0242 Valid Anagram" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 0242 Valid Anagram" />
+    <MESSAGE value="Add 0459 Repeated Substring Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 0459 Repeated Substring Pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
