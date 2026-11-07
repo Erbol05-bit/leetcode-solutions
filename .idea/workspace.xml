@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="effd6941-35d3-4eec-bb7f-66af6cee31df" name="Changes" comment="Add 0020 Valid Parentheses">
+    <list default="true" id="effd6941-35d3-4eec-bb7f-66af6cee31df" name="Changes" comment="Add 0066 Plus One">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,6 +98,7 @@
       <workItem from="1793372605443" duration="842000" />
       <workItem from="1793641038943" duration="3543000" />
       <workItem from="1793809748927" duration="1841000" />
+      <workItem from="1793985673021" duration="1920000" />
     </task>
     <task id="LOCAL-00001" summary="Add 0013 Roman to Integer">
       <option name="closed" value="true" />
@@ -219,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793809996647</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add 0066 Plus One">
+      <option name="closed" value="true" />
+      <created>1793985889050</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1793985889050</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,7 +248,8 @@
     <MESSAGE value="Add 0242 Valid Anagram" />
     <MESSAGE value="Add 0459 Repeated Substring Pattern" />
     <MESSAGE value="Add 0020 Valid Parentheses" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 0020 Valid Parentheses" />
+    <MESSAGE value="Add 0066 Plus One" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 0066 Plus One" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
