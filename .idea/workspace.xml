@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="effd6941-35d3-4eec-bb7f-66af6cee31df" name="Changes" comment="Add 0066 Plus One">
+    <list default="true" id="effd6941-35d3-4eec-bb7f-66af6cee31df" name="Changes" comment="Add 1822 Sign of the Product of an Array">
+      <change afterPath="$PROJECT_DIR$/src/p0424_longest_repeating_character_replacement/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,6 +100,9 @@
       <workItem from="1793641038943" duration="3543000" />
       <workItem from="1793809748927" duration="1841000" />
       <workItem from="1793985673021" duration="1920000" />
+      <workItem from="1794071815049" duration="724000" />
+      <workItem from="1794112301511" duration="1191000" />
+      <workItem from="1794129767738" duration="3661000" />
     </task>
     <task id="LOCAL-00001" summary="Add 0013 Roman to Integer">
       <option name="closed" value="true" />
@@ -228,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793985889050</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add 1822 Sign of the Product of an Array">
+      <option name="closed" value="true" />
+      <created>1794071935834</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1794071935834</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +261,8 @@
     <MESSAGE value="Add 0459 Repeated Substring Pattern" />
     <MESSAGE value="Add 0020 Valid Parentheses" />
     <MESSAGE value="Add 0066 Plus One" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 0066 Plus One" />
+    <MESSAGE value="Add 1822 Sign of the Product of an Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 1822 Sign of the Product of an Array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
